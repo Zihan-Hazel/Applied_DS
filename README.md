@@ -1,6 +1,6 @@
-This is project 1 description
+This is project 1 description and conducted by Zihan Tang.
 
-Goal:
+Goal
 1. Find the Regenerative Organizing Cell(ROCs) in the Frog tail.
 2. Find the genes that make this cell different from all other cells and compare this set of genes with the ones from Supplementary Table 3.
 
@@ -9,5 +9,5 @@ Goal:
 
 Result
 1. Report -- Show results and the process to find ROCs and marker gene。
-2. Code -- implementation
+2. Code -- Implementation
 
